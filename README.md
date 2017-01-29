@@ -1,2 +1,2 @@
 # mobile-tests
-Exerimenting with cordova / phonegap
+Experimenting with cordova / phonegap
